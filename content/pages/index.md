@@ -5,7 +5,7 @@ sections:
     title: Fact2rA
     subtitle: facturar sus productos o servicios nuca fue tan facil
     actions:
-      - label: Learn More
+      - label: Mas informacion
         url: /features
         style: primary
       - label: Contactanos
