@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Fact2rA
-    subtitle: Hacer mas facil las transacciones de su negocio fisico
+    subtitle: facturar sus productos o servicios nuca fue tan facil
     actions:
       - label: Learn More
         url: /features
