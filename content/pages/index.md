@@ -38,10 +38,9 @@ sections:
             url: /features
             style: secondary
       - title: Productos o Servicios
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          te permitirá crear tus propios productos y servicios sin dificultad
+          alguna
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
