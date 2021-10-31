@@ -26,10 +26,9 @@ sections:
     title: Features
     features:
       - title: Facturar
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          te facilitara la tarea de generar una factura de los servicios o
+          productos de tu empresa
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
